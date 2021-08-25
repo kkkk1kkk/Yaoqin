@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>Xyk_Three_Strings</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Things/Three_Strings</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>16</min>
+          <max>17</max>
+        </volumeRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>
